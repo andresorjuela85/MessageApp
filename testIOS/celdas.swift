@@ -23,7 +23,7 @@ class celdas: UITableViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+        // Initialization code 
         label.numberOfLines = 0
         label.textColor = .white
         backgroundColor = .black
